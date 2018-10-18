@@ -1,2 +1,2 @@
-# -Bridge-in-Delphi-WikiBook
+# Bridge-in-Delphi-WikiBook
 Implementation Bridge in Delphi WikiBook
